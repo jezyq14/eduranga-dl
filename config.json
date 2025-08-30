@@ -1,0 +1,8 @@
+{
+    "download_folder": "./images",
+    "output_pdf": "./output/book.pdf",
+    "bookId": "your bookId",
+    "number_of_pages": 178,
+    "wsipnet_session": "your wsipnet_session cookie",
+    "wsipnet_session_lifetime": "your wsipnet_session_lifetime cookie"
+}
