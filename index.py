@@ -10,7 +10,7 @@ with open('config.json') as config_file:
 
 download_folder = config['download_folder']
 output_pdf = config['output_pdf']
-book_id = config['bookId']
+book_id = config['book_id']
 number_of_pages = config['number_of_pages']
 cookies = {
     'wsipnet_session': config['wsipnet_session'],
